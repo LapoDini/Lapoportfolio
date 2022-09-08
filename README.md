@@ -34,7 +34,7 @@
 
 </head>
 
-<body class="w3-theme-l3 w3-content" style="max-width:inherit;">
+<body class="w3-theme-l3 w3-content" style="max-width:1600px;">
 
 <!--Side bar navigation-->  
   <nav class="w3-sidebar w3-collapse w3-theme-light w3-animate-left" style="z-index: 3; width: 300px; display: none;" id="mySidebar">
