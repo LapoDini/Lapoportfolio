@@ -84,13 +84,13 @@
       <div class="w3-container w3-paddin-bottom:32px">
         <h2>About Me</h2>
         <p>As a child with ADHD and dyslexia, I found numbers to be my language of choice, an alternative means of describing the world in my head, as well as the world out there.</p> 
-        <p>Studying Mathematics at university was a natural choice, which gave me the opportunity to explore statistics, geometry, analysis, algebra, and physics first at an undergraduate level and then during my Master&#39s Degree. 
+        <p>Studying Mathematics at university was a natural choice, which gave me the opportunity to explore statistics, geometry, analysis, algebra, and physics first at an undergraduate level and then during my Master's Degree. 
         <p>After graduation, for two years I shared my passion with secondary school students and worked as a teacher of Maths and Physics in public Italian schools. In the meantime, I continued studying and discovered the world of Data Science and Machine Learning: combining my love for numbers with my enthusiasm for technology seemed like an ideal path for me. 
-        Since then, I&#39ve been working hard every day to acquire new skills in this field: Python programming, Matlab/Octave programming, data analysis and modelling with Conda environment tools (such as Pandas, NumPy, Scikit-Learn, Matplotlib and Jupyter Notebook), as well as creating models from scratch using Matlab/Octave.</p>
+        Since then, I've been working hard every day to acquire new skills in this field: Python programming, Matlab/Octave programming, data analysis and modelling with Conda environment tools (such as Pandas, NumPy, Scikit-Learn, Matplotlib and Jupyter Notebook), as well as creating models from scratch using Matlab/Octave.</p>
         My extensive knowledge of Mathematics made me an excellent problem solver, also thanks to my lateral thinking and creativity. I have always been a fast learner and an incredibly curious individual: my many and diverse interests were an invaluable experience to develop soft skills such as teamwork, leadership and ability to work under pressure. For example, practicing and teaching martial arts such as karate, iaido and kobudo gave me discipline, focus and team building skills.</p>
         
         <div class="w3-panel w3-leftbar w3-theme-l1">
-          <p class="w3-large">''Don&#39t take every challenge as a problem, take every problem as a challenge.''</p>
+          <p class="w3-large">''Don't take every challenge as a problem, take every problem as a challenge.''</p>
         </div>
 
         <div class="w3-container">
@@ -104,7 +104,7 @@
       </div>
 
       <div class="w3-container w3-paddin-bottom">
-        <h2 id="Projects">Projects</h1>
+        <h2 id="Projects">Projects</h2>
         <div class="w3-row-padding w3-padding-top-24">
           <div class="w3-third w3-card-4 w3-padding">
             <a href="https://github.com/LapoDini/LapoDini.github.io/tree/main/dog-breed-classification" target="_blank" class="w3-hover-grayscale">
@@ -162,7 +162,7 @@
           </div>
         </div>
       </div>
-    </div>
+    
     
     
     <script>
